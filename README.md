@@ -11,14 +11,14 @@
 
 ##  程序快照
 
-![](.\images\1.png)
+![](images/1.png)
 
-![](.\images\2.png)
+![](images/2.png)
 
-![](.\images\3.png)
+![](images/3.png)
 
 ----
 
 ##  题库(目前就这么多吧，也够用了！)
 
-![](.\images\4.png)
+![](images/4.png)
