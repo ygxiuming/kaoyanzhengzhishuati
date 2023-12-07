@@ -1,6 +1,8 @@
 # kaoyanzhengzhishuati
 考研政治自制刷题GUI
 
+已更新最新题库，包含肖4肖8以及模拟卷
+已更新windows可执行程序，点击[下载](https://github.com/ygxiuming/kaoyanzhengzhishuati/releases/tag/v2.0)
 
 
 ##  初衷
